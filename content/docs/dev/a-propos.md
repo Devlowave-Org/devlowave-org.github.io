@@ -1,6 +1,6 @@
 ---
 weight: 310
-title: Exemple de Contenu
+title: À propos du code
 description: Exemple de Contenu
 icon: edit
 draft: false

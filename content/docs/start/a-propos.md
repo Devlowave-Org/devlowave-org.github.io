@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Exemple de Contenu
+title: À propos de Devloweb
 description: Exemple de Contenu
 icon: edit
 draft: false
