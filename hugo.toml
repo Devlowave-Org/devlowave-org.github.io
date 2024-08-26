@@ -52,7 +52,7 @@ title = 'Documentation Devloweb'
     [params.docs] # Parameters for the /docs 'template'
         title           = "Documentation Dovloweb"           # default html title for documentation pages/sections
 
-        # pathName        = "docs"                            # path name for documentation site | default "docs"
+        pathName        = "/"                            # path name for documentation site | default "docs"
 
         themeColor      = "emerald"                            # (optional) - Set theme accent colour. Options include: blue (default), green, red, yellow, emerald, cardinal, magenta, cyan
 
