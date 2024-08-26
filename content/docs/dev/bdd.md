@@ -6,3 +6,6 @@ icon: edit
 draft: false
 toc: true
 ---
+Blablabla on fait une description par table 
+
+## 👤 SELECT * FROM `users`
