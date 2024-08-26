@@ -2,7 +2,7 @@
 weight: 120
 title: Modifier les données du site
 description: Exemple de Contenu
-icon: user
+icon: keyboard
 draft: false
 toc: true
 ---
