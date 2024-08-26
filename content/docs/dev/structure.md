@@ -1,5 +1,5 @@
 ---
-weight: 320
+weight: 520
 title: Structure
 description: Exemple de Contenu
 icon: edit

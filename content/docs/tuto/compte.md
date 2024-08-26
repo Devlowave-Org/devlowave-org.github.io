@@ -1,8 +1,8 @@
 ---
-weight: 510
-title: À propos du code
+weight: 110
+title: Créer un compte
 description: Exemple de Contenu
-icon: edit
+icon: user
 draft: false
 toc: true
 ---
