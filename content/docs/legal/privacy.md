@@ -20,7 +20,7 @@ Pour pouvoir fonctionner correctement, Devloweb collecte les donnés suivantes :
 Ces données ne sont collectées que pour les comptes identifiés (connectés) sur le site web. Aucune données ne sont collectées sans compte devloweb
 
 {{% alert context="warning" %}}
-##### Vous collectez mon adresse IP ?
+###### Vous collectez mon adresse IP ?
 
 Pour pouvoir assurer la sécurité de notre site web, votre adresse ip est enregistrée lors de votre connexion et à chaque tentative échoué, pour pouvoir bloquer certaines adresses après trop de tentatives.
 {{% /alert %}}
