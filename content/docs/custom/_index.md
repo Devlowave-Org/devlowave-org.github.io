@@ -1,7 +1,7 @@
 ---
 weight: 400
-title: Exemple de Contenu
+title: Customization
 description: Exemple de Contenu
-icon: edit
+icon: palette
 draft: false
 ---
