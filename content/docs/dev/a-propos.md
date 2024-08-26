@@ -1,5 +1,5 @@
 ---
-weight: 50
+weight: 310
 title: Exemple de Contenu
 description: Exemple de Contenu
 icon: edit
