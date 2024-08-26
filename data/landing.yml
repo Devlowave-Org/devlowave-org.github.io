@@ -36,3 +36,12 @@ hero:
     url: "https://github.com/colinwilson/lotusdocs"
 
   info: "**Open Source** MIT Licensed."
+
+featureGrid:
+  enable: false
+
+imageText:
+  enable: false
+  
+imageCompare:
+  enable: false
