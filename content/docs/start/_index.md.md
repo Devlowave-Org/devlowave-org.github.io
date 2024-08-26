@@ -1,7 +1,7 @@
 ---
-weight: 100
-title: Exemple de Contenu
-description: Exemple de Contenu
-icon: edit
+weight: 1
+title: Bienvenu !
+description: Découvrez comment fonctionne devloweb, cette outil incroyable qui est vraiment super
+icon: rocket_launch
 draft: false
 ---
