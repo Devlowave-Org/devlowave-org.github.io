@@ -2,6 +2,6 @@
 weight: 300
 title: Guide Développeur
 description: Exemple de Contenu
-icon: edit
+icon: code
 draft: false
 ---
