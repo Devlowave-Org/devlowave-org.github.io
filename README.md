@@ -1,1 +1,3 @@
-hugo new docs/example-page.md
+# 📚 Documentation Devloweb
+###### Built with *Lotus* 🌺
+---
