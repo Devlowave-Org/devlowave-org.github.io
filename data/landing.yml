@@ -1,0 +1,38 @@
+# Hero
+hero:
+  enable: true
+  weight: 10
+  template: hero
+
+  backgroundImage:
+    path: "images/templates/hero"
+    filename:
+      desktop: "gradient-desktop.webp"
+      mobile: "gradient-mobile.webp"
+
+  badge:
+    text: v0.2.1
+    color: primary # primary, secondary, success, danger, warning, info, light, dark
+    pill: false # boolean
+    soft: true # boolean
+
+  title: "Devloweb Documentation"
+  subtitle: A lightweight, **modern documentation** theme for Hugo. Easily customised for building **fast**, **secure**, and **SEO-friendly** documentation sites.
+
+  image:
+    path: "images" # path to image under configured assets directory. default 'images'
+    filename: "lotus_docs_screenshot.png" # filename of your hero image (including file extension)
+    alt: "Lotus Docs Screenshot" # Optional but recommended
+    boxShadow: true # default 'false' (excludes .svg images)
+    rounded: true # round the image corners? default 'false' (excludes .svg images)
+
+  ctaButton:
+    icon: rocket_launch
+    btnText: "Get Started"
+    url: "/docs/quickstart/#create-a-new-lotus-docs-site"
+  cta2Button:
+    icon: construction
+    btnText: "In Development"
+    url: "https://github.com/colinwilson/lotusdocs"
+
+  info: "**Open Source** MIT Licensed."
