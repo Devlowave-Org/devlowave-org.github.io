@@ -1,10 +1,11 @@
 ---
 weight: 410
-title: Hero
-description: Le Hero est la première parti de votre site, tout en haut, qui acroche vote "lecteur"
+title: Création Graphique
+description: "Comment réaliser un site web sans coder ? La réponse : dans cette doc"
 icon: user
 draft: false
 toc: true
 ---
-## 🎲 Donnés
-Celon les thèmes, vous pouvez modifier les donnés suivantes :
+## Avant propos
+## Canvas
+## Figma

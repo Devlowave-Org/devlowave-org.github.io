@@ -1,10 +1,10 @@
 ---
 weight: 470
-title: Hero
-description: Le Hero est la première parti de votre site, tout en haut, qui acroche vote "lecteur"
+title: Variables
+description: C'est le mot magique qui transforme un site statique en un site dynamique
 icon: user
 draft: false
 toc: true
 ---
-## 🎲 Donnés
-Celon les thèmes, vous pouvez modifier les donnés suivantes :
+## Quesaquo
+## Liste

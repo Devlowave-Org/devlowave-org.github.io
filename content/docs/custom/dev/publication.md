@@ -1,10 +1,9 @@
 ---
 weight: 499
-title: Hero
-description: Le Hero est la première parti de votre site, tout en haut, qui acroche vote "lecteur"
+title: Publication
+description: Ça serait vraiment cocasse que notre code soit publique, et que n'importe qui puisse ajouter un thème avec une simple demande...
 icon: user
 draft: false
 toc: true
 ---
-## 🎲 Donnés
-Celon les thèmes, vous pouvez modifier les donnés suivantes :
+## TOS
