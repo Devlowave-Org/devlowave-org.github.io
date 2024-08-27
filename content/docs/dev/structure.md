@@ -1,8 +1,10 @@
 ---
 weight: 520
 title: Structure
-description: Exemple de Contenu
+description: La structure de notre projet. Yep, plus de blagues et d'inspi mais c'est sérieux là 😐
 icon: edit
 draft: false
 toc: true
 ---
+## 🗃 Classe `App`
+## 🧰 App.utils

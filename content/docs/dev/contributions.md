@@ -1,7 +1,7 @@
 ---
 weight: 599
 title: Contributions
-description: Exemple de Contenu
+description: Envis de participer à ce magnifique projet qu'es Devloweb ? C'est juste là ⬇️⬇️
 icon: user
 draft: false
 toc: true
@@ -15,6 +15,7 @@ Si vous souhaitez ajouter votre propre thème à Devloweb, nous vous demandons d
 - avoir une version mobile (responsive)
 - éviter d'utiliser trop de javascript
 
+Il existe un [guide de création](/docs/custom/dev/) pour développer les themes.
 ## 🐛 Fix de Bug
 Il n'y a aucun bug sur Devloweb, mais si par hasard un congributeur aurais fait l'erreur gravissime de ne pas tester son code, alors nous acceptons que vous répariez cette abomination.
 
