@@ -6,7 +6,9 @@ icon: info
 draft: false
 toc: false
 ---
+```
 <h2 style="text-align: center;">🚀 . 🧨 . Devloweb . 🧭 . 🌌</h2>
+```
 Merci à vous d'utiliser Devloweb 🧡 Devloweb est un outil créé par Timtonix, Zamuel, Grizz *et Funasitien* de l'association **Devlowave** et qui à pour vocation de rendre la création de site web accesible aux juniors associations ! 
 
 {{% alert context="info" %}}
@@ -14,7 +16,9 @@ Merci à vous d'utiliser Devloweb 🧡 Devloweb est un outil créé par Timtonix
 Vous pouvez avoir ce que vous voulez, mais posséder une **Junior Association** - aussi abrégé **JA** - est obligatoire pour vous inscrire sur Devloweb. 
 {{% /alert %}}
 
+```
 <h2 style="text-align: center;">🗃 . Devlowave <span style="background-color: emerald; border-radius: 10px;">doc</span> . 🌺</h2>
+```
 La documentation de Devloweb vous est offerte avec 💙 et 🌥 par Funasitien DreamCloud. Pas besoin de JA pour la lire, faites vous plaisir ! (*fin on parle d'une doc quand même*)
 
 Un grand merci à l'équipe de [Lotus Lab](#) pour le thème hugo qui rend cette documentation si magnifique (voir swag. Ouaip, on peut aller jusque là)
