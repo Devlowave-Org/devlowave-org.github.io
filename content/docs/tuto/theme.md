@@ -5,7 +5,7 @@ description: Maintenant que votre page a un sens, il est temps de lui donner du 
 icon: format_paint
 test: brush
 draft: false
-toc: false
+toc: true
 ---
 ## 🖌 Choisir un thème 
 Pour cela, rendez vous sur la page <kbd>Thème</kbd> de l'espace client. Vous y trouverez une liste de thèmes, avec les boutons suivant :
