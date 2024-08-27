@@ -4,7 +4,7 @@ title: À propos de Devloweb
 description: Découvrez comment fonctionne devloweb, cette outil incroyable qui est vraiment super
 icon: info
 draft: false
-toc: true
+toc: false
 ---
 <h2 style="text-align: center;">🚀 . 🧨 . Devloweb . 🧭 . 🌌</h2>
 Merci à vous d'utiliser Devloweb 🧡 Devloweb est un outil créé par Timtonix, Zamuel, Grizz *et Funasitien* de l'association **Devlowave** et qui à pour vocation de rendre la création de site web accesible aux juniors associations ! 
