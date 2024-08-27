@@ -2,7 +2,7 @@
 weight: 950
 title: Thermes d'utilisation (TOS)
 description: On est super cool chez Devlowave, mais il y a quand même quelques petites chose à respecter pour avoir un site sur Devloweb.
-icon: edit
+icon: shield_with_heart
 draft: false
 toc: true
 ---

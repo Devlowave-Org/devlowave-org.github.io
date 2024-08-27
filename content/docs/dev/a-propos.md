@@ -2,7 +2,7 @@
 weight: 510
 title: À propos du code
 description: Exemple de Contenu
-icon: edit
+icon: dynamic_form
 draft: false
 toc: true
 ---

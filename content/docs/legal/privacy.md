@@ -2,7 +2,7 @@
 weight: 999
 title: Politique de Condidentialité
 description: Un document légal qui explique ce que l'on fait de vos précieuuusee donées
-icon: function
+icon: policy
 draft: false
 toc: true
 ---

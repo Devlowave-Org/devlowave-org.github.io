@@ -2,7 +2,7 @@
 weight: 599
 title: Contributions
 description: Envis de participer à ce magnifique projet qu'es Devloweb ? C'est juste là ⬇️⬇️
-icon: user
+icon: folder_data
 draft: false
 toc: true
 ---
