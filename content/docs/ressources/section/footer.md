@@ -1,7 +1,7 @@
 ---
 weight: 684
 title: Footer
-description: Le Hero est la première parti de votre site, tout en haut, qui acroche vote "lecteur"
+description: Le footer est la dernière partit de vote page, tout en bas et souvent contenant des informations de contact
 icon: user
 draft: false
 toc: true

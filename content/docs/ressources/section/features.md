@@ -1,10 +1,10 @@
 ---
 weight: 683
 title: Features
-description: Le Hero est la première parti de votre site, tout en haut, qui acroche vote "lecteur"
+description: La section Features (Fonctionalités) vous permet de mettre en valeur les points principaux de votre association
 icon: user
 draft: false
 toc: true
 ---
-## 🎲 Donnés ⚠️ Recursif
+## 🎲X Donnés
 Celon les thèmes, vous pouvez modifier les donnés suivantes :

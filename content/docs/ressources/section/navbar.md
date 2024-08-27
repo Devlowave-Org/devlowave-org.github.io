@@ -1,10 +1,10 @@
 ---
 weight: 682
 title: Navbar
-description: Le Hero est la première parti de votre site, tout en haut, qui acroche vote "lecteur"
+description: La navbar est la barre de navigation, avec tout vos liens, en haut de votre page
 icon: user
 draft: false
 toc: true
 ---
-## 🎲 Donnés
-Celon les thèmes, vous pouvez modifier les donnés suivantes :
+## 🪄 Avec la magie de Devloweb...
+La navabr (barre de navigation) se genere toute seule ! Il n'y a aucunes donnés à remplir, elle liste elle même toutes les pages que vous avez créé.

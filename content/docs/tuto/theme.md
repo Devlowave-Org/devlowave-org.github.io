@@ -17,7 +17,4 @@ Chaque thème possède une icône 👁 qui correspond à son nombre d'utilisatio
 
 ## 😶‍🌫️ Aucun thème à votre goût ? 
 
-Deux options s'offre à vous :
-
-#### 💻 Vous êtes développeur
-#### 🥁 Vous n'êtes pas développeur
+**Une solution existe !** Le mode d'emploi est dans l'onglet [Customization](/docs/custom) de ce site, pour les développeurs et pour les non-développeurs.
