@@ -6,14 +6,14 @@ icon: shield_with_heart
 draft: false
 toc: true
 ---
+
 ## 🔰 Introduction
 Je (*Funasitien*) tient à rendre ces conditions d'utilisation les plus lisibles et compressibles possibles. On est une asso, qui ne fait aucun bénéfice de devlowave, alors pourquoi essayer de vous cacher quelque chose alors qu'on a rien à vous cacher ? 
 
 Le but de ces TOS est surtout de pouvoir combattre la fraude qui pourrais être présente avec notre générateur - des sites web gratuit de A à Z, ça fait rêver...
 
-## ⚠️ Interdictions
-Tout les sites qui contiendrait ces types de contenu seront supprimé voir bannis 
+## 👤 Comptes
+Tout compte sur Devloweb doit être lié à une Junior Association valide. Tout compte usurpant ou n'étant pas lié à une JA sera supprimé/bannis.
 
-- X
-
-**Nous sommes en liens avec l'équipe de gestion des JA et avec les autorités françaises.** Toute usurpation d'identité sera <span style="color: coral;">gravement punnis</span>.
+## 🗃 Contenu
+Il est interdit de faire des redirections vers des sites tiers et de se servir de Devloweb comme "tampon". Nous vous conseillons d'utiliser linktree dans ce cas.
