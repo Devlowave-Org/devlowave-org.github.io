@@ -4,7 +4,7 @@ title: Structure
 description: La structure de notre projet. Yep, plus de blagues et d'inspi mais c'est sérieux là 😐
 icon: edit
 draft: false
-toc: true
+toc: false
 ---
 ## 🗃 Classe `App`
 ## 🧰 App.utils
