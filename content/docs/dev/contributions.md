@@ -18,4 +18,4 @@ Si vous souhaitez ajouter votre propre thème à Devloweb, nous vous demandons d
 ## 🐛 Fix de Bug
 Il n'y a aucun bug sur Devloweb, mais si par hasard un congributeur aurais fait l'erreur gravissime de ne pas tester son code, alors nous acceptons que vous répariez cette abomination.
 
-Pour cela, ouvrez une PR sur notre github, décrivez et bug et comment vous l'avez résolu. Et si effectivement, il existe, et que vous l'avez résolu, vous êtes 1. un goût et 2.
+Pour cela, ouvrez une PR sur notre github, décrivez et bug et comment vous l'avez résolu. Et si effectivement, il existe, et que vous l'avez résolu, vous êtes 1. un goat et 2. accepté

@@ -6,3 +6,5 @@ icon: password
 draft: false
 toc: true
 ---
+## 🧭 Pourquoi utiliser l'idée de mon serveur discord ?
+Grâce à l'identifiant de votre serveur discord, nous pouvons faire des requêtes plus spécifiques à discord pour afficher des trucs cool tel que <>
