@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Deploy Hugo site to Pages
+name: 🚀 Hugo vers GH-Pages
 
 on:
 # Runs on pushes targeting the default branch
@@ -27,6 +27,7 @@ defaults:
 jobs:
 # Build job
   build:
+    name: ⚙️ Compilation
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.118.2
@@ -63,6 +64,7 @@ jobs:
 
 # Deployment job
   deploy:
+    name: 🌐 Publication
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
