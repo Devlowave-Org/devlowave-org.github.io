@@ -12,10 +12,11 @@ Merci à vous d'utiliser Devloweb 🧡 Devloweb est un outil créé par Timtonix
 
 {{% alert context="info" %}}
 ***No ~~bitches~~ JA ?*** 🧐
+
 Vous pouvez avoir ce que vous voulez, mais posséder une **Junior Association** - aussi abrégé **JA** - est obligatoire pour vous inscrire sur Devloweb. 
 {{% /alert %}}
 
-🗃 . Devlowave <span style="background-color: emerald; border-radius: 10px;">doc</span> . 🌺
+<h2 style="text-align: center;">🗃 . Devlowave <span style="background-color: #065f46; border-radius: 10px;">doc</span> . 🌺</h2>
 
 La documentation de Devloweb vous est offerte avec 💙 et 🌥 par Funasitien DreamCloud. Pas besoin de JA pour la lire, faites vous plaisir ! (*fin on parle d'une doc quand même*)
 
