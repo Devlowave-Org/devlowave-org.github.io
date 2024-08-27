@@ -94,7 +94,7 @@ title = 'Documentation Devloweb'
         logoLinkURL = "/docs"                                    # Set a custom URL destination for the top header logo link.
 
     [params.flexsearch] # Parameters for FlexSearch
-        enabled             = true
+        enabled             = false
         # tokenize            = "full"
         # optimize            = true
         # cache               = 100
