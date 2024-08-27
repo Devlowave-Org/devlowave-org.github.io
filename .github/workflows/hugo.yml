@@ -55,6 +55,7 @@ jobs:
         --gc \
         --minify \
         --baseURL "${{ steps.pages.outputs.base_url }}/"
+        --logLevel debug
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
       with:
