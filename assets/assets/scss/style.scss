@@ -7,10 +7,9 @@
 */
 
 //Custom Font Variables
-
-$font-family-secondary:  "'FluentEmoji', {{ .Site.Params.secondary_font | default "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Ubuntu'" }}";
-$font-family-sans-serif: "'FluentEmoji', {{ .Site.Params.secondary_font | default "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Ubuntu'" }}";
-$font-family-monospace:  {{ .Site.Params.mono_font | default "'FluentEmoji', SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" }};
+$font-family-secondary: {{ .Site.Params.secondary_font | default "'FluentEmoji', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Ubuntu'" }};
+$font-family-sans-serif: {{ .Site.Params.sans_serif_font | default "'FluentEmoji', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Ubuntu'" }};
+$font-family-monospace: {{ .Site.Params.mono_font | default "'FluentEmoji', SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" }};
 
 //Fonts
 // @import "custom/fonts/fonts";
